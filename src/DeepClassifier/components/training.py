@@ -1,7 +1,7 @@
 
 import tensorflow as tf
 from pathlib import Path
-from DeepClassifier.entity import TrainingConfig
+from DeepClassifier.entity.config_entity import TrainingConfig
 
 class Training:
     def __init__(self, config: TrainingConfig):
