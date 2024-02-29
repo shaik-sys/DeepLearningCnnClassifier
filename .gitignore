@@ -165,3 +165,4 @@ cython_debug/
 *.zip
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-26-00-13-53/train/events.out.tfevents.1708928034.MOOSA.24924.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2024-02-26-00-13-53/validation/events.out.tfevents.1708931817.MOOSA.24924.1.v2
+/mlruns
