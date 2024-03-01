@@ -1,0 +1,5 @@
+outs:
+- md5: 6fb1deb17b31a786326c725063c403c6
+  size: 4200
+  hash: md5
+  path: demo.py
